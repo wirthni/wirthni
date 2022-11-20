@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wirthni
-- 👀 I’m interested in physics, maths and STM32 programming
-- 🌱 I’m currently on my way to become a physicist
-- 💞️ I’m looking to collaborate on every sh** I can 
+- 👀 I’m interested in physics, aviation, and STM32 programming
+- 🌱 Future physicist
+- 💞️ I’m looking to collaborate on every sh** I can get 
 - 📫 How to reach me ->IG (underscore)wirthi(underscore)
 
 <!---
