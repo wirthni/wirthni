@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicolas Wirth
-- 👀 I’m interested in physics, aviation, and STM32 programming
+- 👀 I’m interested in high energy physics, aviation, and STM32 programming
 - Nicolas.Wirth@cern.ch
 <!---
 wirthni/wirthni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
